@@ -1,5 +1,14 @@
 # FireCrawl MCP Server Setup Guide
 
+## About Model Control Protocol (MCP)
+MCP (Model Control Protocol) is an open standard for integrating AI models with external data and tools. It enables:
+- Seamless integration between AI models and external tools
+- Standardized communication protocols
+- Enhanced AI capabilities through tool access
+- Project-wide availability of configured tools
+
+For more details, visit the [Claude MCP Documentation](https://www.claudemcp.com/docs/introduction).
+
 ## Issue Resolution
 We encountered and fixed the following issues with the FireCrawl MCP server:
 
